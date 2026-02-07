@@ -1,9 +1,3 @@
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=eyronc&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
 # 💫 About Me:
 👋 Hi! I'm **Aaron Cumahig**.<br><br>
 👨‍💻 I’m currently working on:<br><br>
