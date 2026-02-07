@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hi! I'm **Aaron Cumahig**.<br><br>👨‍💻 I’m currently working on:<br><br>- Building a personal portfolio website to showcase my projects and skills.<br><br>- Collaborating on various web development projects, particularly focusing on PHP and React.<br><br>🍳 I’m currently learning:<br><br>- PHP: Exploring server-side scripting and back-end development.<br><br>- React (JSX/TSX): Diving into modern front-end development with React and learning TypeScript to build more robust applications.
 
-
+<div align="center">
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ixReaper) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iameyronc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-cumahig-468794316/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lynxreaper) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/galaxychamber) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaroncumahig12@gmail.com) 
 
@@ -14,5 +15,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eyronc&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
