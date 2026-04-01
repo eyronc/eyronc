@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- HEADER — Inter font via capsule-render, no local SVG needed -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:111111&height=160&text=AARON%20CUMAHIG&fontColor=f0ece4&fontSize=52&fontAlign=50&fontAlignY=45&desc=eyronc%20·%20he%2Fhim%20·%20Philippines&descColor=6E9EF7&descSize=14&descAlignY=68&fontFamily=Inter&animation=fadeIn&stroke=6E9EF7&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,25:1a0533,50:0f1f45,75:0a2a4a,100:0d1117&text=AARON%20CUMAHIG&fontColor=f0ece4&fontSize=48&fontAlignY=38&desc=eyronc%20%C2%B7%20he%2Fhim%20%C2%B7%20Philippines&descColor=7aa2f7&descSize=15&descAlignY=58&animation=fadeIn&stroke=7aa2f7&strokeWidth=0" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&pause=1200&color=6E9EF7&center=true&vCenter=true&width=520&lines=PHP+%26+React+Developer;UI+%2F+UX+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=7aa2f7&center=true&vCenter=true&width=520&lines=PHP+%26+React+Developer;UI+%2F+UX+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,16 +18,13 @@
 
 ```ts
 const aaron = {
-  alias     : "ron",
-  pronouns  : "he / him",
-  location  : "Philippines 🇵🇭",
-  funFact   : "I eat hotdog sandwiches for breakfast 🌭",
-
-  currentlyBuilding : "Personal portfolio website",
-  currentlyLearning : ["PHP", "React (JSX/TSX)", "TypeScript"],
-
-  collab    : "Web dev projects focused on PHP & React",
-  contact   : "aaroncumahig12@gmail.com",
+  education: "BS in Information Technology",
+  specialization: ["Full-stack Development", "AI Systems"],
+  learningPath: {
+    mastering: ["React.jsx", "Tailwind CSS"],
+    exploring: ["Cloud Deployment", "Database Architecture"]
+  },
+  goal: "Bridging the gap between AI theory and functional web apps"
 };
 ```
 
@@ -40,7 +36,12 @@ const aaron = {
 
 <div align="center">
 
-[`Facebook`](https://facebook.com/ixReaper)&emsp;[`Instagram`](https://instagram.com/iameyronc)&emsp;[`LinkedIn`](https://www.linkedin.com/in/aaron-cumahig-468794316/)&emsp;[`TikTok`](https://tiktok.com/@lynxreaper)&emsp;[`X`](https://x.com/galaxychamber)&emsp;[`Portfolio`](https://aaron-cumahig.vercel.app)&emsp;[`Email`](mailto:aaroncumahig12@gmail.com)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/ixReaper)&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iameyronc)&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaron-cumahig-468794316/)&nbsp;
+[![TikTok](https://skillicons.dev/icons?i=tiktok)](https://tiktok.com/@lynxreaper)&nbsp;
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/galaxychamber)&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aaroncumahig12@gmail.com)
 
 </div>
 
@@ -119,11 +120,12 @@ const aaron = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=eyronc&style=for-the-badge&color=6E9EF7&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=eyronc&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
 
-<br/><br/>
+</div>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:0d0d0d&height=60&text=%2F%2F%20thanks%20for%20visiting%20·%20aaron-cumahig.vercel.app&fontColor=6E9EF7&fontSize=13&fontAlign=50&fontAlignY=55&fontFamily=Plus+Jakarta+Sans&animation=fadeIn" width="100%" />
+<br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,25:0a2a4a,50:0f1f45,75:1a0533,100:0d1117&section=footer&animation=fadeIn" width="100%"/>
 </div>
