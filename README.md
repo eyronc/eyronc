@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,25:1a0533,50:0f1f45,75:0a2a4a,100:0d1117&text=AARON%20CUMAHIG&fontColor=f0ece4&fontSize=48&fontAlignY=38&desc=eyronc%20%C2%B7%20he%2Fhim%20%C2%B7%20Philippines&descColor=7aa2f7&descSize=15&descAlignY=58&animation=fadeIn&stroke=7aa2f7&strokeWidth=0" width="100%"/>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=7aa2f7&center=true&vCenter=true&width=520&lines=PHP+%26+React+Developer;UI+%2F+UX+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:0d1117,30:1a0533,60:0f1f45,100:0a2a4a&text=AARON%20CUMAHIG&fontColor=f0ece4&fontSize=48&fontAlignY=45&fontAlign=70&desc=eyronc%20%C2%B7%20he%2Fhim%20%C2%B7%20Philippines&descColor=7aa2f7&descSize=15&descAlignY=62&descAlign=70&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -14,17 +8,20 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```ts
 const aaron = {
-  education: "BS in Information Technology",
-  specialization: ["Full-stack Development", "AI Systems"],
-  learningPath: {
-    mastering: ["React.jsx", "Tailwind CSS"],
-    exploring: ["Cloud Deployment", "Database Architecture"]
-  },
-  goal: "Bridging the gap between AI theory and functional web apps"
+  alias     : "ron",
+  pronouns  : "he / him",
+  location  : "Philippines 🇵🇭",
+  funFact   : "I eat hotdog sandwiches for breakfast 🌭",
+
+  currentlyBuilding : "Personal portfolio website",
+  currentlyLearning : ["PHP", "React (JSX/TSX)", "TypeScript"],
+
+  collab    : "Web dev projects focused on PHP & React",
+  contact   : "aaroncumahig12@gmail.com",
 };
 ```
 
@@ -32,16 +29,16 @@ const aaron = {
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/ixReaper)&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iameyronc)&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aaron-cumahig-468794316/)&nbsp;
-[![TikTok](https://skillicons.dev/icons?i=tiktok)](https://tiktok.com/@lynxreaper)&nbsp;
-[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/galaxychamber)&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aaroncumahig12@gmail.com)
+<a href="https://facebook.com/ixReaper"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/iameyronc"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aaron-cumahig-468794316/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://tiktok.com/@lynxreaper"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://x.com/galaxychamber"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="mailto:aaroncumahig12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/></a>
 
 </div>
 
@@ -49,7 +46,7 @@ const aaron = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -57,14 +54,14 @@ const aaron = {
 <tr>
 <td align="center" width="50%">
 
-**💬 Languages**
+** Languages**
 
 <img src="https://skillicons.dev/icons?i=c,cs,java,js,ts,php&theme=dark&perline=6" />
 
 </td>
 <td align="center" width="50%">
 
-**🎨 Frontend**
+** Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=6" />
 
@@ -73,14 +70,14 @@ const aaron = {
 <tr>
 <td align="center" width="50%">
 
-**⚙️ Backend & Frameworks**
+** Backend & Frameworks**
 
 <img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark&perline=6" />
 
 </td>
 <td align="center" width="50%">
 
-**🧰 Tools & Design**
+** Tools & Design**
 
 <img src="https://skillicons.dev/icons?i=figma,ps,vscode,git,github&theme=dark&perline=6" />
 
@@ -94,7 +91,7 @@ const aaron = {
 
 ---
 
-## 🔥 Streak
+## Streak
 
 <div align="center">
 
@@ -106,7 +103,7 @@ const aaron = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -127,5 +124,5 @@ const aaron = {
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,25:0a2a4a,50:0f1f45,75:1a0533,100:0d1117&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=0:0a2a4a,40:0f1f45,70:1a0533,100:0d1117&section=footer&animation=fadeIn&reversal=true" width="100%"/>
 </div>
