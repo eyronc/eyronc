@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Aaron%20Cumahig&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
+<!-- HEADER — Inter font via capsule-render, no local SVG needed -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:111111&height=160&text=AARON%20CUMAHIG&fontColor=f0ece4&fontSize=52&fontAlign=50&fontAlignY=45&desc=eyronc%20·%20he%2Fhim%20·%20Philippines&descColor=6E9EF7&descSize=14&descAlignY=68&fontFamily=Inter&animation=fadeIn&stroke=6E9EF7&strokeWidth=1" width="100%" />
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E9EF7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ron+%F0%9F%91%8B;PHP+%26+React+Developer;UI+%2F+UX+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&pause=1200&color=6E9EF7&center=true&vCenter=true&width=520&lines=PHP+%26+React+Developer;UI+%2F+UX+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -33,16 +36,11 @@ const aaron = {
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ixReaper)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iameyronc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-cumahig-468794316/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@lynxreaper)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/galaxychamber)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaroncumahig12@gmail.com)
+[`Facebook`](https://facebook.com/ixReaper)&emsp;[`Instagram`](https://instagram.com/iameyronc)&emsp;[`LinkedIn`](https://www.linkedin.com/in/aaron-cumahig-468794316/)&emsp;[`TikTok`](https://tiktok.com/@lynxreaper)&emsp;[`X`](https://x.com/galaxychamber)&emsp;[`Portfolio`](https://aaron-cumahig.vercel.app)&emsp;[`Email`](mailto:aaroncumahig12@gmail.com)
 
 </div>
 
@@ -54,25 +52,40 @@ const aaron = {
 
 <div align="center">
 
-| 💬 Languages | 🎨 Frontend |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=c,cs,java,js,ts,php&theme=dark" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" /> |
-| ⚙️ **Backend & Frameworks** | 🧰 **Tools & Design** |
-| <img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=figma,ps,vscode,git,github&theme=dark" /> |
+<table border="0" cellspacing="0" cellpadding="16">
+<tr>
+<td align="center" width="50%">
 
-</div>
+**💬 Languages**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=c,cs,java,js,ts,php&theme=dark&perline=6" />
 
----
+</td>
+<td align="center" width="50%">
 
-## 📊 GitHub Stats
+**🎨 Frontend**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=6" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=eyronc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyronc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**⚙️ Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark&perline=6" />
+
+</td>
+<td align="center" width="50%">
+
+**🧰 Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,vscode,git,github&theme=dark&perline=6" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -85,18 +98,6 @@ const aaron = {
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=eyronc&theme=tokyonight&hide_border=true&card_width=700" />
-
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eyronc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -122,6 +123,7 @@ const aaron = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:0d0d0d&height=60&text=%2F%2F%20thanks%20for%20visiting%20·%20aaron-cumahig.vercel.app&fontColor=6E9EF7&fontSize=13&fontAlign=50&fontAlignY=55&fontFamily=Plus+Jakarta+Sans&animation=fadeIn" width="100%" />
 
 </div>
