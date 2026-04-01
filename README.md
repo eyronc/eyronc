@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaron%20Cumahig&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20in%20the%20Making&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Aaron%20Cumahig&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E9EF7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ron+%F0%9F%91%8B;PHP+%26+React+Developer;UI+%2F+UX+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<br/>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E9EF7&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Ron+%F0%9F%91%8B;PHP+%26+React+Developer;UI+%2F+UX+Enthusiast;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
 </div>
 
 <br/>
@@ -58,27 +54,11 @@ const aaron = {
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cs,java,js,ts,php&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
-
-<br/><br/>
-
-**Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" />
-
-<br/><br/>
-
-**Design & Tools**
-
-<img src="https://skillicons.dev/icons?i=figma,ps,vscode,git,github&theme=dark" />
+| 💬 Languages | 🎨 Frontend |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=c,cs,java,js,ts,php&theme=dark" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" /> |
+| ⚙️ **Backend & Frameworks** | 🧰 **Tools & Design** |
+| <img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=figma,ps,vscode,git,github&theme=dark" /> |
 
 </div>
 
@@ -90,13 +70,21 @@ const aaron = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eyronc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyronc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=290" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eyronc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyronc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160"/>
 
-<br/><br/>
+</div>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=eyronc&theme=tokyonight&hide_border=true&card_width=720" height="165"/>
+<br/>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=eyronc&theme=tokyonight&hide_border=true&card_width=700" />
 
 </div>
 
@@ -108,7 +96,7 @@ const aaron = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=eyronc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=eyronc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -116,7 +104,7 @@ const aaron = {
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
