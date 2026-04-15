@@ -28,18 +28,9 @@ const aaron = {
 
 ## Connect
 
-<div align="center">
-
-  <a href="https://facebook.com/ixReaper"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/iameyronc"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aaron-cumahig-468794316/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://tiktok.com/@lynxreaper"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/galaxychamber"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="mailto:aaroncumahig12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/></a>
-
-</div>
-
-how to make it center
+<p align="center">
+<a href="https://facebook.com/ixReaper"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://instagram.com/iameyronc"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aaron-cumahig-468794316/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://tiktok.com/@lynxreaper"><img src="https://cdn.simpleicons.org/tiktok/ffffff" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://x.com/galaxychamber"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/></a>&nbsp;&nbsp;<a href="mailto:aaroncumahig12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/></a>
+</p>
 
 <br/>
 
