@@ -29,7 +29,7 @@ const aaron = {
 ## Connect
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td><a href="https://facebook.com/ixReaper"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/></a></td>
       <td><a href="https://instagram.com/iameyronc"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/></a></td>
@@ -48,30 +48,28 @@ const aaron = {
 ## Tech Stack
 
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td align="center" width="50%">
-<strong>Languages</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=c,cs,java,js,ts,php&theme=dark&perline=6" />
-</td>
-<td align="center" width="50%">
-<strong>Frontend</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=6" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<strong>Backend & Frameworks</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark&perline=6" />
-</td>
-<td align="center" width="50%">
-<strong>Tools & Design</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=figma,ps,vscode,git,github&theme=dark&perline=6" />
-</td>
-</tr>
-</table>
-
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center" width="50%">
+        <strong>Languages</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=c,cs,java,js,ts,php&theme=dark&perline=6" />
+      </td>
+      <td align="center" width="50%">
+        <strong>Frontend</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=6" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <strong>Backend & Frameworks</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark&perline=6" />
+      </td>
+      <td align="center" width="50%">
+        <strong>Tools & Design</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=figma,ps,vscode,git,github&theme=dark&perline=6" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
