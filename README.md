@@ -18,7 +18,7 @@ const aaron = {
     mastering : ["React.jsx", "Tailwind CSS"],
     exploring : ["MCP", "RAG", "Database Architecture"],
   },
-  goal : "Bridging the gap between AI theory and functional web apps",
+  goal : "Learn and build something different everyday.",
 };
 ```
 
