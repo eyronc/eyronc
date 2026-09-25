@@ -89,8 +89,6 @@ const aaron = {
 ---
 <br/>
 
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=eyronc&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
