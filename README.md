@@ -87,15 +87,6 @@ const aaron = {
 <br/>
 
 ---
-
-## Contribution Chart
-
-<div align="center">
-
-<a href="https://github.com/eyronc"><img src="https://ghchart.rshah.org/7aa2f7/eyronc" alt="Aaron's GitHub Contribution Chart" /></a>
-
-</div>
-
 <br/>
 
 ---
