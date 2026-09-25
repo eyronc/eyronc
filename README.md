@@ -76,12 +76,23 @@ const aaron = {
 
 ---
 
-## GitHub Stats
+## Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eyronc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyronc&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=eyronc&theme=tokyonight&hide_border=true&card_width=700" />
+
+</div>
+
+<br/>
+
+---
+
+## Contribution Chart
+
+<div align="center">
+
+<a href="https://github.com/eyronc"><img src="https://ghchart.rshah.org/7aa2f7/eyronc" alt="Aaron's GitHub Contribution Chart" /></a>
 
 </div>
 
