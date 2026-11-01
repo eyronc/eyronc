@@ -14,6 +14,7 @@
 const aaron = {
   education : "BS in Information Technology",
   projects  : ["Full-stack Development", "AI Systems"],
+  work      : "Software Developer",
   learningPath: {
     mastering : ["React.jsx", "Tailwind CSS"],
     exploring : ["MCP", "RAG", "Database Architecture"],
