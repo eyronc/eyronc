@@ -81,7 +81,7 @@ const aaron = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=eyronc&theme=tokyonight&hide_border=true&card_width=700" />
+<img src="https://streak-stats.demolab.com?user=eyronc&theme=tokyonight&hide_border=true&card_width=700&v=2" />
 
 <br/><br/>
 
