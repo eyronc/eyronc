@@ -83,16 +83,11 @@ const aaron = {
 
 <img src="https://streak-stats.demolab.com?user=eyronc&theme=tokyonight&hide_border=true&card_width=700" />
 
-</div>
+<br/><br/>
 
-<br/>
-
----
-<br/>
-
-<div align="center">
-
-<img src="https://ghostview.eyronc.workers.dev/badge.svg" />
+<a href="https://github.com/eyronc">
+  <img src="https://ghostview.eyronc.workers.dev/badge.svg" alt="Profile Views" />
+</a>
 
 </div>
 
