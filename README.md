@@ -92,7 +92,7 @@ const aaron = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=eyronc&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
+<img src="https://ghostview.eyronc.workers.dev/badge.svg" />
 
 </div>
 
