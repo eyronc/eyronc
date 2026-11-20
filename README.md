@@ -81,7 +81,7 @@ const aaron = {
 
 <div align="center">
 
-<img src="profile/streak.svg" />
+<img src="https://ghostview.eyronc.workers.dev/streak.svg" alt="GitHub Streak" />
 
 <br/><br/>
 
