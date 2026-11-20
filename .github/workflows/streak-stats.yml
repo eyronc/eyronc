@@ -3,7 +3,7 @@ name: Update Streak Stats
 on:
   schedule:
     # Runs automatically every 2 hours, 24/7, for eternity
-    - cron: '0 */2 * * *'
+    # - cron: '0 */2 * * *' # Disabled: now served real-time by Cloudflare Worker
   workflow_dispatch:
 
 jobs:
